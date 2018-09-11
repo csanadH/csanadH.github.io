@@ -1,0 +1,40 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+
+  <script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+  <script language="javascript" type="text/javascript" src="main.js"></script>
+
+  <title>SortingJS</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat|Teko" rel="stylesheet">
+</head>
+  <div id="main-content">
+    <div id="buttons">
+      <button class="sort-button" id="insertion">Insertion Sort</button>
+      <button class="sort-button" id="selection">Selection Sort</button>
+      <button class="sort-button" id="bubble">Bubble Sort</button>
+      <button class="sort-button" id="quick">Quicksort</button>
+      <button class="sort-button implementing" id="merge">Merge Sort</button>
+      <button class="sort-button implementing" id="heap">Heapsort</button>
+      <button class="sort-button implementing" id="shell">Shellsort</button>
+      <button class="sort-button implementing" id="comb">Comb sort</button>
+      <button class="sort-button implementing" id="counting">Counting sort</button>
+      <div class="number">
+        <span class="number-span">Numbers to sort:</span>
+        <input id="range" type="range" oninput="rangeChange(this.value)" min="20" max="100">
+      </div>
+      <div class="number">
+        <span class="number-span">FPS:</span><br>
+        <input id="range" type="range" oninput="rangeChangeFPS(this.value)" min="1" max="60">
+      </div>
+      <button class="sort-button" id="start">START SORTING</button>
+    </div>
+
+    <div id="canvas-div">
+    </div>
+
+  </div>
+<body>
+</body>
+</html>
