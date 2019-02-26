@@ -4,7 +4,7 @@ window.addEventListener('beforeinstallprompt', evt => {
     evt.preventDefault();
 
     promtEvt = evt;
-
+    console.log(promptEvt);
     setTimeout(showPrompt, 15000);
 
     return false;
