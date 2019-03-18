@@ -1,0 +1,44 @@
+#main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 5em;
+}
+
+#left-side,
+#right-side {
+    min-height: 120px;
+    padding: 1em;
+}
+
+#left-side {
+    border: 1px solid green;
+    grid-column: 1;
+}
+
+#right-side {
+    border: 1px solid red;
+    grid-column: 2;
+}
+
+#images {
+    border: 1px solid grey;
+    min-height: 120px;
+    padding: 10px;
+}
+
+#images img {
+    height: 100px;
+    margin: 0.2em 0.2em;
+    cursor: pointer;
+}
+
+#left-side img,
+#right-side img {
+    height: 100px;
+    margin: 0.2em 0.2em;
+    cursor: pointer;
+}
+
+.dragged {
+    background-color: rgba(20, 200, 20, .5);
+}

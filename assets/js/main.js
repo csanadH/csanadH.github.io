@@ -42,3 +42,67 @@
 	});
 
 })(jQuery);
+
+
+let currentDrag;
+
+document.addEventListener('DOMContentLoaded', (event) => {
+	const images = document.getElementById('images').children;
+	const leftside = document.getElementById('left-side');
+	const rightside = document.getElementById('right-side');
+	leftside.setAttribute('ondragover', 'onDragOver(event)');
+	leftside.setAttribute('ondragleave', 'onDragLeave(event)');
+	leftside.setAttribute('ondrop', 'onDrop(event)');
+	
+	rightside.setAttribute('ondragover', 'onDragOver(event)');
+	rightside.setAttribute('ondragleave', 'onDragLeave(event)');
+	rightside.setAttribute('ondrop', 'onDrop(event)');
+
+	images[0].parentElement.setAttribute('ondragover', 'onDragOver(event)');
+	images[0].parentElement.setAttribute('ondragleave', 'onDragLeave(event)');
+	images[0].parentElement.setAttribute('ondrop', 'onDrop(event)');
+
+	document.getElementById('save-button').addEventListener('click', onSaveClick);
+
+	for (let i = 0; i < images.length; i++) {
+		images[i].addEventListener('dragstart', onDragStart);
+	};
+});
+
+function onDragStart() {
+	currentDrag = this;
+}
+
+function onDragOver(event) {
+	event.preventDefault();
+	event.target.classList.add('dragged');
+} 
+
+function onDragLeave(event) {
+	event.preventDefault();
+	event.target.classList.remove('dragged');
+}
+
+function onDrop(event) {
+	event.preventDefault();
+	event.target.appendChild(currentDrag);
+}
+
+function onSaveClick() {
+	const images = document.getElementById('images').children;
+	const leftside = document.getElementById('left-side').children;
+	const rightside = document.getElementById('right-side').children;
+
+	console.log("images");
+	for (let i = 0; i < images.length; i++) {
+		console.log(images[i]);
+	}
+	console.log("leftside");
+	for (let i = 0; i < leftside.length; i++) {
+		console.log(leftside[i]);
+	}
+	console.log("rightside");
+	for (let i = 0; i < rightside.length; i++) {
+		console.log(rightside[i]);
+	}
+}
