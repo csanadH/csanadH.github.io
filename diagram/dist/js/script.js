@@ -87,7 +87,7 @@ function addExample() {
                 "\t\t\t\"description\": \"RIDGE\"\,\n" +
                 "\t\t\t\"children\"\: [\n" +
                     "\t\t\t\t\{\n" +
-                        "\t\t\t\t\t\"name\": \"DATA CENTER\"\,\n" +
+                        "\t\t\t\t\t\"name\": \"INSTANCE\"\,\n" +
                         "\t\t\t\t\t\"description\": \"Taiwan 1\",\n" +
                         "\t\t\t\t\t\"children\"\: [\n" +
                             "\t\t\t\t\t\t\{\n" +
