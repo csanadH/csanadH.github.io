@@ -1,0 +1,344 @@
+{
+	"name": "BRANDS",
+	"description": "Verajohn JP, Intercasino JP",
+	"children": [
+		{
+			"name": "PLATFORM",
+			"description": "RIDGE",
+			"children": [
+				{
+					"name": "DATA CENTER",
+					"description": "Taiwan 1",
+					"children": [
+						{
+							"name": "PROVIDER",
+							"description": "Relax RGS",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Dice Lab"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Relax Games"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Sthlm Gaming"
+								}
+							]
+						},
+						{
+							"name": "PROVIDER",
+							"description": "Thunderkick",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Thunderkick"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Habanero",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Habanero Games"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Lotus Gaming",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Lotus Live Gaming"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "OneTouch",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "OneTouch"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Gamatron/Ganapati",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Gamatron"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Booming Games",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Booming Games"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Leander",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Leander Games"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "PGSoft",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Pocket Games"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "1X2 Network",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "1X2 Gaming"
+                                },
+								{
+									"name": "SUBPROVIDER",
+									"description": "Iron Dog"
+                                },
+								{
+									"name": "SUBPROVIDER",
+									"description": "LEAP Gaming"
+                                }
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "NetEnt",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "NetEnt RNG"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "NetEnt Live Casino"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "NetEnt RNG Premium"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Evolution",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Evolution Gaming"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Play'nGO",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Play'nGO"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Yggdrasil Gaming",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Yggdrasil Gaming"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Red Tiger",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Cayetano Games"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Red Tiger"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Oryx RGS",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Gamomat"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Gamomat Premium"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Golden Hero"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Kalamba"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Oryx Gaming"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Nolimit City",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Nolimit City"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "PragmaticPlay",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "PragmaticPlay"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "PragmaticPlay Live"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "iSoftBet",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "iSoftBet"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Push Gaming",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Push Gaming"
+								}
+							]
+                        },
+                        {
+							"name": "PROVIDER",
+							"description": "Slingo Originals",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Slingo Originals"
+								}
+							]
+						},
+						{
+							"name": "PROVIDER",
+							"description": "Quickfire Platform",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Lightning Box"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Microgaming"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Microgaming Live"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Rabcat Gambling"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Just For The Win"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "Big Time Gaming"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "2 by 2 Gaming"
+								}
+							]
+						},
+						{
+							"name": "PROVIDER",
+							"description": "RTG Asia",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "RTG Asia"
+								}
+							]
+						},
+						{
+							"name": "PROVIDER",
+							"description": "Blueprint",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "Blueprint"
+								}
+							]
+						},
+						{
+							"name": "PROVIDER",
+							"description": "Gameplay Interactive",
+							"children": [
+								{
+									"name": "SUBPROVIDER",
+									"description": "GamePlay RNG"
+								},
+								{
+									"name": "SUBPROVIDER",
+									"description": "GamePlay Live"
+								}
+							]
+                        }
+					]
+				}
+			]
+		}
+	]
+}

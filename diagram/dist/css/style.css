@@ -1,0 +1,17 @@
+#input {
+    margin-bottom: 24px;
+}
+
+#input textarea {
+    width: 1020px;
+}
+
+#input button,
+#input textarea {
+    display: inline;
+}
+
+#visualization {
+    border: 1px solid black;
+    width: 1020px;
+}

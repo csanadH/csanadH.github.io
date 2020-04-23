@@ -1,0 +1,56 @@
+habanero -> Habanero Games
+lotus -> Lotus Live Gaming
+onetouch -> OneTouch
+gamatron/ganapati -> Gamatron
+booming -> Booming Games
+leander
+	2 by 2 Gaming
+	Adoptit Publishing
+	Ainsworth Game Technology
+	BB Games
+	DTech Games
+	Jade Rabbit Games
+	Leander Games
+	Live 5
+	Meta GU
+	Pear Fiction
+	Probability Jones
+	Reflex Gaming
+	Spieldev
+	Sun Fox
+	Touchstone
+pgsoft -> Pocket Games
+1x2network
+	1X2 Gaming
+	Iron Dog
+	LEAP Gaming
+netent
+	NetEnt RNG
+	NetEnt Live Casino
+	NetEnt RNG Premium
+evolution -> Evolution Gaming
+playngo -> Play'nGO
+yggdrasil -> Yggdrasil Gaming
+redtiger
+	Cayetano Games
+	Red Tiger
+oryx
+	Gamomat
+	Gamomat Premium
+	Givme Games
+	Golden Hero
+	Kalamba Oryx
+	Oryx Gaming
+nolimit city -> Nolimit City
+pragmaticplay
+	PragmaticPlay
+	PragmaticPlay Live
+isoftbet -> iSoftBet
+push -> Push Gaming Direct
+slingo -> Slingo Originals
+thunderkick -> Thunderkick
+
+
+
+blueprint, rtg asia - no ridge specific provider setting
+realistic - no provider settings
