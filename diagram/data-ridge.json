@@ -7,7 +7,7 @@
 			"description": "RIDGE",
 			"children": [
 				{
-					"name": "DATA CENTER",
+					"name": "INSTANCE",
 					"description": "Taiwan 1",
 					"children": [
 						{
